@@ -1,0 +1,3 @@
+Este proyecto se realizo con lenguaje PHP 8, utilizamos un servidor locar XAMPP, base de datos MySq.
+Para poder hacer uso de este proyecto, debera importar la carpeta que contiene el script de la base de datos dentro de este mismo proyecto.
+El formulario consta de unos campos en el cual debera ingresar su datos personales para poder votar por un candidato, el voto es unico e irrepetible.
